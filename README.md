@@ -1,0 +1,4 @@
+GrailsPreAuth
+=============
+
+grails preauthentication project
